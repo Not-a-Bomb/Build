@@ -23,6 +23,7 @@ Have you ever found yourself getting distracted for hours browsing the web? Do y
 * Burts off the links in your browser better than Elon's Rockets
 * Set off Timer
 * New puzzles every week
+# Version - v.1.0
 
 # Installation
 
