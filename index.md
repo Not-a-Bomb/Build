@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+![](icons/silly.png)
 
-You can use the [editor on GitHub](https://github.com/Not-a-Bomb/Build/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+   # Not a Bomb
+  ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Washpoppin? *Your browser***
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2>Online class too stressful? 
+<br>
+ Is your friend making you see his shitty gameplay?
+<br>
+ Are you just evil ?
+<br>
+   Your siblings using your laptop ?
+<br>
+Have you ever found yourself getting distracted for hours browsing the web? Do you get tired and sluggish while studying for exams? 
+<br>
+   </h2>
+ <h1>
+# Nows the time to Blast it up!
+</h1>
+(gif)
 
-### Markdown
+# Features
+* Burts off the links in your browser better than Elon's Rockets
+* Set off Timer
+* New puzzles every week
+# Version - v.1.0
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Installation
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Not-a-Bomb/Build/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
