@@ -1,4 +1,4 @@
-![](icons/silly.png)
+
 
    # Not a Bomb
   ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Washpoppin? *Your browser***
