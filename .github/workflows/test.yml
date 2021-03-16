@@ -10,8 +10,6 @@ jobs:
     steps:
       - name: Checkout code
         uses: anushkrishnav/Issue-Police@main
-      - name: Run Action
-        uses: ./
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           author: ${{ github.actor }}
