@@ -11,8 +11,9 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@main
       - name: Run Action
-        uses: anushkrishnav/Issue-Police@main
+        uses: anushkrishnav/Issue-Watcher@dev
         with:
           token: '${{ secrets.GITHUB_TOKEN }}'
           author: '${{github.actor}}'
           repo: Not-a-Bomb/Build
+          maxIssue: 2
