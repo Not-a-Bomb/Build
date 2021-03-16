@@ -13,6 +13,6 @@ jobs:
       - name: Run Action
         uses: anushkrishnav/Issue-Police@main
         with:
-          ghtoken: ${{ secrets.SECRET_KEY }}
+          token: ${{ secrets.SECRET_KEY }}
           author: anushkrishnav
           repo: anushkrishnav/Issue-Police   
