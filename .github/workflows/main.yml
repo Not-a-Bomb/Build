@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@main
-      - name: Run Action
+      - name: Run
         uses: anushkrishnav/Issue-Watcher@dev
         with:
           token: '${{ secrets.GITHUB_TOKEN }}'
